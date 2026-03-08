@@ -153,6 +153,7 @@ Install required packages:
 ```bash
 pip install -r requirements.txt
 ```
+---
 
 ## Running the Analysis
 
@@ -161,8 +162,7 @@ Open the notebook:
 ```bash
 jupyter notebook analysis.ipynb
 ```
-
-
+---
 
 ## Applications
 
@@ -172,3 +172,17 @@ This project demonstrates techniques used in:
 - Cosmology
 - Statistical analysis of astronomical data
 - Dark matter studies
+
+---
+
+## Author
+
+Vijaya Krishna S  
+BTech Engineering Physics  
+Indian Institute of Technology Bhubaneswar
+
+---
+
+## Acknowledgement
+
+This work was completed as part of the ISA Summer School 2025 – Astronomy & Astrophysics Program.
