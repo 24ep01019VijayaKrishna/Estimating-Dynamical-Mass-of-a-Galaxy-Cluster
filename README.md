@@ -160,7 +160,7 @@ pip install -r requirements.txt
 Open the notebook:
 
 ```bash
-jupyter notebook analysis.ipynb
+1_dynamical_mass.ipynb
 ```
 ---
 
