@@ -79,8 +79,9 @@ $$
 
 where
 
-$- \(D_A\) = angular diameter distance
-$- \(θ\) = angular separation in radians
+
+$ \(D_A\) = angular diameter distance
+ \(θ\) = angular separation in radians
 
 ---
 
