@@ -95,9 +95,9 @@ $$
 
 where
 
-$- \(σ\) = velocity dispersion
-$- \(R\) = cluster radius
-$- \(G\) = gravitational constant
+- $\sigma$ = velocity dispersion
+- \(R\) = cluster radius
+- \(G\) = gravitational constant
 
 ---
 
