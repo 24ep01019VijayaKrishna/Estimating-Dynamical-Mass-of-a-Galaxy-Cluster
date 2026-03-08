@@ -37,9 +37,9 @@ Number of galaxies analyzed: **~92**
 
 Cluster members are selected using a **3σ redshift cutoff**:
 
-\[
+$$
 z \in [\bar{z} - 3\sigma, \bar{z} + 3\sigma]
-\]
+$$
 
 This removes foreground and background galaxies.
 
