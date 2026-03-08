@@ -96,8 +96,8 @@ $$
 where
 
 - $\sigma$ = velocity dispersion
-- \(R\) = cluster radius
-- \(G\) = gravitational constant
+- $R$ = cluster radius
+- $G$ = gravitational constant
 
 ---
 
