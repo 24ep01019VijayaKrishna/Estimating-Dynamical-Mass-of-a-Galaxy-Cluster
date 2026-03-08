@@ -153,3 +153,22 @@ Install required packages:
 ```bash
 pip install -r requirements.txt
 ```
+
+## Running the Analysis
+
+Open the notebook:
+
+```bash
+jupyter notebook analysis.ipynb
+```
+
+
+
+## Applications
+
+This project demonstrates techniques used in:
+
+- Observational astrophysics
+- Cosmology
+- Statistical analysis of astronomical data
+- Dark matter studies
