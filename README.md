@@ -49,9 +49,9 @@ This removes foreground and background galaxies.
 
 Galaxy recession velocity is calculated from redshift:
 
-\[
+$$
 v = cz
-\]
+$$
 
 Relative velocity with respect to the cluster is computed using the **relativistic Doppler formula**.
 
@@ -61,9 +61,9 @@ Relative velocity with respect to the cluster is computed using the **relativist
 
 Velocity dispersion measures how fast galaxies move relative to the cluster center:
 
-\[
+$$
 \sigma = std(v)
-\]
+$$
 
 This is an important indicator of the cluster's gravitational potential.
 
@@ -73,14 +73,14 @@ This is an important indicator of the cluster's gravitational potential.
 
 The cluster diameter is estimated from the maximum angular separation:
 
-\[
+$$
 D = D_A \times \theta
-\]
+$$
 
 where
 
-- \(D_A\) = angular diameter distance
-- \(θ\) = angular separation in radians
+$- \(D_A\) = angular diameter distance
+$- \(θ\) = angular separation in radians
 
 ---
 
@@ -88,15 +88,15 @@ where
 
 The total cluster mass is estimated using:
 
-\[
+$$
 M = \frac{3\sigma^2R}{G}
-\]
+$$
 
 where
 
-- \(σ\) = velocity dispersion
-- \(R\) = cluster radius
-- \(G\) = gravitational constant
+$- \(σ\) = velocity dispersion
+$- \(R\) = cluster radius
+$- \(G\) = gravitational constant
 
 ---
 
