@@ -146,3 +146,9 @@ Clone the repository:
 ```bash
 git clone https://github.com/24ep01019VijayaKrishna/Estimating-Dynamical-Mass-of-a-Galaxy-Cluster
 cd Estimating-Dynamical-Mass-of-a-Galaxy-Cluster
+
+Install required packages:
+
+```bash
+pip install -r requirements.txt
+```
